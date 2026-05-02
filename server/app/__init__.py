@@ -1,0 +1,1 @@
+"""AlignLab FastAPI application package."""
